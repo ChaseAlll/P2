@@ -67,7 +67,8 @@ LiveSplit is a free application that allows you to record and update your speedr
    * _A window should pop up that looks like this
    
    ![edit_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split.png)
-   
+  * Select or Type the name of the game you're speedruning
+  * Select the category you're running in
    
 ## FAQ
  * "Do I have to set up LiveSplit as shown for it to work"
