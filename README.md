@@ -6,7 +6,8 @@
 ### [4.](#configuring-livesplit) Configuring LiveSplit
 ### [5.](#setting-up-your-speedrun) Setting Up Your Speedrun
 ### [6.](#faq) FAQ
-### [7.](#license) LICENSE
+### [7.](#troubleshooting) Troubleshooting
+### [8.](#license) LICENSE
 
 
 ## Introduction
@@ -81,6 +82,9 @@ LiveSplit is a free application that allows you to record and update your speedr
    * There isn't an officially support version of LiveSplit on mac, but you can use a web-browser based version found [here](https://cryze.github.io/LiveSplitOne/).
  * “How do I get LiveSplit to close”
    * If you're having difficulties closing the program, either right click and select _Exit_ or open up your task manager to end the task/program
+
+## Troubleshooting
+check
 
 ## LICENSE
  * This project is licensed under the terms of the MIT license.
