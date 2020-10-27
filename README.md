@@ -8,7 +8,7 @@
 ### [6.](#instructions-for-use) Instructions For Use
 ### [7.](#faq) FAQ
 ### [8.](#troubleshooting) Troubleshooting
-### [9.](#license) LICENSE
+### [9.](#license) License
 
 
 ## Introduction
@@ -90,6 +90,6 @@ LiveSplit is a free application that allows you to record and update your speedr
 ## Troubleshooting
  If you have any trouble with the installation or need any addtional suport, feel free to contact me at allisonpc@appstate.edu.
 
-## LICENSE
+## License
  This project is licensed under the terms of the [MIT license.](https://github.com/ChaseAlll/P2/blob/main/MIT%20License.txt)
 
