@@ -45,14 +45,20 @@
   
   ![layout](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/layout.png)
   
-  * Hover over list
+  * Hover over _list_
   * Click on _Splits_
   * Click the _Up Arrow_, while splits is still highlighted
     * _This will move the splits you added above the time tracker_
   
   ![splits](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/splits.png)
   
+  * Click on the plus to add a feature
+  * Hover over _Information_
+  * Click on Title
+  * Click the Up Arrow _twice_, while title is still highlighted
+    * _Your LiveSplit application should look like this
   
+  ![new_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/new_split.png)
   
   
   
