@@ -38,8 +38,8 @@ knowledge to install the emulator and to configure it to use the settings most e
 ## Installing Emulator and Dependencies
  * Navigate to the Plutonium [homepage](https://plutonium.pw/)
  * Scroll down until you see *BO2 Download*
-  * After you've opened the download fourm open up your File Explorer
-   * Open your Local Disk(Hard Drive)
+  * After you've opened the download fourm open up your _File Explorer_
+   * Open your Local Disk (Hard Drive)
   ![C-drive](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/C-drive.png)
  * Create a new folder named Games if you don't have one
   ![games](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/games.png)
