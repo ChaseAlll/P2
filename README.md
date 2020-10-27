@@ -31,10 +31,10 @@ LiveSplit is a free application that allows you to record and update your speedr
   
   * Open your _Downloads_ folder to find LiveSplit_1.8.15 (or the version you downloaded)
   * Rightclick to extract the LiveSplit zip folder
-    * send it to your prefered location
+    * _send it to your prefered location
   * Open your extracted LiveSplit folder
   * Open LiveSplit
-    * Once you do this the application should open and look like this
+     * _Once you do this the application should open and look like this
     
     ![exe](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exe.png)
 
