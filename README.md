@@ -29,7 +29,7 @@
 ## Installing LiveSplit
  * Navigate to the LiveSplit [homepage](https://livesplit.org/)
  * Click on the _download_ button on the homepaage
-  * This will lead you to the different LiveSplit downloads
+   * this will lead you to the different LiveSplit downloads
   ![download](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/download.png)
   * Click on the most recent version of LiveSplit to download the application
   ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
