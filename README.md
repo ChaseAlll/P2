@@ -57,7 +57,7 @@ LiveSplit is a free application that allows you to record and update your speedr
   * Hover over _Information_
   * Click on Title
   * Click the Up Arrow _twice_, while title is still highlighted
-    * _Your LiveSplit application should look like this
+    * _Your LiveSplit application should look like this_
   
   ![new_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/new_split.png)
  
@@ -71,7 +71,7 @@ LiveSplit is a free application that allows you to record and update your speedr
   * Select the category you're running in
     * If there are certain parts of your speedrun that you want to record the time of you can add splits
   * Type the name of your first segment 
-    * if you want to add more segments/splits click Insert Bellow
+    * _if you want to add more segments/splits click Insert Bellow_
     
   ![edit_split11](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split11.png)
    
