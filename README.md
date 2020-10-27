@@ -6,8 +6,9 @@
 ### [4.](#configuring-livesplit) Configuring LiveSplit
 ### [5.](#setting-up-your-speedrun) Setting Up Your Speedrun
 ### [6.](#faq) FAQ
-### [7.](#troubleshooting) Troubleshooting
-### [8.](#license) LICENSE
+### [7.](#instructions-for-use) Instructions For Use
+### [8.](#troubleshooting) Troubleshooting
+### [9.](#license) LICENSE
 
 
 ## Introduction
@@ -74,7 +75,10 @@ LiveSplit is a free application that allows you to record and update your speedr
     * _if you want to add more segments/splits click Insert Below to add them_
     
   ![edit_split11](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split11.png)
-   
+
+## Instructions For Use
+
+
 ## FAQ
  * "Do I have to set up LiveSplit as shown for it to work"
    * No! LiveSplit in its purest form is just a timer. You can setup the layout to fit whatever needs you may have.
@@ -84,7 +88,7 @@ LiveSplit is a free application that allows you to record and update your speedr
    * If you're having difficulties closing the program, either right click and select _Exit_ or open up your task manager to end the task/program
 
 ## Troubleshooting
- If you have any trouble with the installation or need any addtional suport, feel free to contact me at allisonpc@appstate.edu
+ If you have any trouble with the installation or need any addtional suport, feel free to contact me at allisonpc@appstate.edu.
 
 ## LICENSE
  This project is licensed under the terms of the [MIT license.](https://github.com/ChaseAlll/P2/blob/main/MIT%20License.txt)
