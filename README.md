@@ -4,10 +4,6 @@
 ### [2.](#system-requirements) System Requirements
 ### [3.](#installing-livesplit) Installing LiveSplit 
 ### [4.](#configuring-livesplit) Configuring LiveSplit
- 1. ##### Map Controller
- 
- 
- 2. ##### Set Game Path
 ### [5.](#faq) FAQ
 ### [6.](#license) LICENSE
 
@@ -40,6 +36,7 @@
  * Rightclick on the application
  * Select _Edit Layout..._
    * _This will open a window to configure the layout of the application_
+ * Click the plus to add a feature 
  ![layout](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/layout.png)
  * Click the Controllers Button
    * _This will open a small window containing the general controller configuration options_
