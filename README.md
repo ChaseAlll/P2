@@ -1,7 +1,7 @@
 # Table of Contents 
 
 ### [1.](#introduction) Introduction
-### [2.](#System Requirements) System Requirements
+### [2.](#system) System Requirements
 ### [3.](#installing-emulator-and-dependencies) Installing BO2 With Plutonium 
  1. ##### Download Resources
  
