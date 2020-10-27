@@ -21,17 +21,14 @@
 
 
 ## System Requirements
- * Minimum System Requirements
-    * OS: Windows Vista SP2, Windows 7, or later
-   * Processor: Intel Core2 Duo E8200 2.66 GHz or AMD Phenom X3 8750 2.4 GHz, or later
-   * Graphics: NVIDIA® GeForce® 8800GT 512 MB or ATI Radeon HD 3870 512 MB, or later
+   * OS: Windows 7 or later, OSX 10.12 or newer
+   * Processor: 1.5Ghz or better
    * DirectX: Version 9.0c
- * Network: Broadband Internet connection
- * Storage: 20 GB available space
- * Sound Card: DirectX Compatible
+ * Storage: 30 MB available space
+ * Sound Card: Windows compatible sound card, Mac compatible
  
 ## Installing BO2 With Plutonium 
- * Navigate to the Plutonium [homepage](https://plutonium.pw/)
+ * Navigate to the LiveSplit [homepage](https://livesplit.org/)
  * Scroll down until you see *BO2 Download*
   * After you've opened the download fourm open up your _File Explorer_
    * Open your Local Disk (Hard Drive)
