@@ -72,7 +72,7 @@ LiveSplit is a free application that allows you to record and update your speedr
     * _If there are certain parts of your speedrun that you want to record the time of you can add splits
   * Type the name of your first segment 
     * _if you want to add more segments/splits click Insert Bellow 
-  ![edit_split11](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split.png11)
+  ![edit_split11](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split11.png)
    
 ## FAQ
  * "Do I have to set up LiveSplit as shown for it to work"
