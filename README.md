@@ -46,8 +46,8 @@
   ![layout](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/layout.png)
   
   * Hover over _list_
-  * Click on _Splits_
-  * Click the _Up Arrow_, while splits is still highlighted
+  * Click on Splits
+  * Click the Up Arrow, while splits is still highlighted
     * _This will move the splits you added above the time tracker_
   
   ![splits](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/splits.png)
@@ -59,40 +59,7 @@
     * _Your LiveSplit application should look like this
   
   ![new_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/new_split.png)
-  
-  
-  
-  * Click the Controllers Button
-   * _This will open a small window containing the general controller configuration options_
-  ![DolphinStart](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/DolphinHomeSmall.png)
-  * Under GameCube Controllers, Port1, select Standard Controller from the drop-down menu
-  * Click the Configure button for Port 1
-   * _This will open a window for with specific configuration options for a single controller_
-   ![DolphinControllerSelect](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/ControllerSettingsSmall.png)
-  * Ensure your Controller is connected
-  * Under Device select Xinput/… from the drop-down menu
-   * _If Xinput is not displayed, ensure the controller is connected and click refresh_
-  ![DolphincontrollerMapping](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/ControllerMappingSmall.png)
-   
-    
-
- * Map controller inputs to your preference
- * Under Profile give this controller a name
- * Save the profile
- * Close both controller windows 
- * Click the Config button
-   * _This will open a multi-tabbed window with the general configuration options_ 
- ![DolphinStart](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/DolphinHomeConfigSmall.png)
-* Navigate to the Paths tab
-![DolphinPaths](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/PathsArrowSmall.png)
- * Click add
-   * _This will open a windows navigation window_  
-![DolphinAdd](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/PathsAddsmall.png)
- * Navigate and select folder where Rom’s are stored
-   * _If rom’s are sorted in someway into different folders. Ensure they are all put into a single roms folder and check the search subfolder option._ 
- * Click close
- * Choose a Rom to run and play it!
-
+ 
 ## FAQ
  * Are there any performance settings that need changed?
    * New versions of Dolphin come with the most optimized settings preselected. If you are having trouble, try lowering the resolution or choosing a different renderer in the graphics settings under the options toolbar. 
