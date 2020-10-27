@@ -1,7 +1,7 @@
 # Table of Contents 
 
 ### [1.](#introduction) Introduction
-### [2.](#prerequisites) Prerequisites
+### [2.](#System Requirements) System Requirements
 ### [3.](#installing-emulator-and-dependencies) Installing BO2 With Plutonium 
  1. ##### Download Resources
  
@@ -25,7 +25,7 @@ this emulator before. Anyone has experience with this emulator or is going to us
 the one used should look for information more curated to their use case. Once read, this documentation will give the user the
 knowledge to install the emulator and to configure it to use the settings most efficient for a general use case.
 
-## Prerequisites
+## System Requirements
  * Minimum System Requirements
     * OS: Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit or later, Mac OS X 10.13.6 (High Sierra) or later
    * Processor: Intel® Core™ i3-530 @ 2.93 GHz / AMD Phenom™ II X4 810 @ 2.60 GHz, Intel® Core™ i5 (4 Cores) @ 2.3 GHz
