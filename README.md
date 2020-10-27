@@ -65,12 +65,12 @@ LiveSplit is a free application that allows you to record and update your speedr
  * Now this is where the fun begins
  
 ## FAQ
- * Are there any performance settings that need changed?
-   * New versions of Dolphin come with the most optimized settings preselected. If you are having trouble, try lowering the resolution or choosing a different renderer in the graphics settings under the options toolbar. 
- * "This application has failed to start because XINPUT1_3.dll was not found"
-   * This only occurs on systems using an older version of Windows (below 10). Like how we installed the VS C++ redistributable install the Latest DirectX Runtime from [here](https://support.microsoft.com/en-us/help/179113/how-to-install-the-latest-version-of-directx) 
- * “Im using a PS3/4 controller and it is not recognized.”
-   * Install the SCPToolkit from [here](https://github.com/nefarius/ScpToolkit) this will allow windows to recognize the controller as a Bluetooth device and retry adding the controller. 
+ * "Do I have to set up LiveSplit as shown for it to work?"
+   * No! LiveSplit in its purest form is just a timer. You can setup the layout to fit whatever needs you may have.
+ * "How do I download LiveSplit on mac?"
+   * There isn't an officially support version of LiveSplit on mac, but you can use a web-browser based version found [here](https://cryze.github.io/LiveSplitOne/).
+ * “How do I get LiveSplit to close?”
+   * If you're having difficulties closing the program, either rightclick and select _Exit_ or open up your task manager to end the task/program
 
 ## LICENSE
  * This project is licensed under the terms of the MIT license.
