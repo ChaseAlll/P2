@@ -10,7 +10,7 @@
 
 
 ## Introduction
-LiveSplit is a free application that allows you to record and update your speedrun timings mid-game as well as customize the application itself to suite your asethetic. This document will guide you through the instillation and configuration process to set up your own speedrun timer; suited to you. 
+LiveSplit is a free application that allows you to record and update your speedrun timings mid-game as well as customize the application itself to suit your aesthetic. This document will guide you through the installation and configuration process to set up your own speedrun timer; suited to you. 
 
 ## System Requirements
  * OS: Windows 7 or later
@@ -20,7 +20,7 @@ LiveSplit is a free application that allows you to record and update your speedr
  
 ## Installing LiveSplit
  * Navigate to the LiveSplit [homepage](https://livesplit.org/)
- * Click the _download_ button on the homepaage
+ * Click the _download_ button on the homepage
    * _This will lead you to the different LiveSplit downloads_
    
   ![download](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/download.png)
@@ -30,7 +30,7 @@ LiveSplit is a free application that allows you to record and update your speedr
   ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
   
   * Open your _Downloads_ folder to find LiveSplit_1.8.15 (or the version you downloaded)
-  * Rightclick to extract the LiveSplit zip folder
+  * Right click to extract the LiveSplit zip folder
     * _send it to your prefered location_
   * Open your extracted LiveSplit folder
   * Open LiveSplit
@@ -39,7 +39,7 @@ LiveSplit is a free application that allows you to record and update your speedr
     ![exe](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exe.png)
 
 ## Configuring LiveSplit
- * Rightclick on the application
+ * Right click on the application
  * Select _Edit Layout..._
    * _This will open a window to configure the layout of the application_
   * Click the plus to add a feature 
@@ -62,15 +62,15 @@ LiveSplit is a free application that allows you to record and update your speedr
   ![new_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/new_split.png)
  
  ## Setting up Your Speedrun
- * Rightclick on LiveSplit
+ * Right click on LiveSplit
  * Click Edit Splits...
    * _A window should pop up that looks like this_
    
    ![edit_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split.png)
-  * Select or Type the name of the game you're speedruning
+  * Select or Type the name of the game you're speedrunning
   * Select the category you're running in
   * Type the name of your first segment 
-    * _if you want to add more segments/splits click Insert Bellow to add them_
+    * _if you want to add more segments/splits click Insert Below to add them_
     
   ![edit_split11](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split11.png)
    
@@ -80,7 +80,7 @@ LiveSplit is a free application that allows you to record and update your speedr
  * "How do I download LiveSplit on mac"
    * There isn't an officially support version of LiveSplit on mac, but you can use a web-browser based version found [here](https://cryze.github.io/LiveSplitOne/).
  * “How do I get LiveSplit to close”
-   * If you're having difficulties closing the program, either rightclick and select _Exit_ or open up your task manager to end the task/program
+   * If you're having difficulties closing the program, either right click and select _Exit_ or open up your task manager to end the task/program
 
 ## LICENSE
  * This project is licensed under the terms of the MIT license.
