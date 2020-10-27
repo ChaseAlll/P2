@@ -30,6 +30,7 @@
   * Open your extracted LiveSplit folder
   * Open LiveSplit
     * Once you do this the application should open and look like this
+    
     ![exe](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exe.png)
 
 ## Configuring LiveSplit
@@ -38,6 +39,7 @@
    * _This will open a window to configure the layout of the application_
   * Click the plus to add a feature 
   ![layout](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/layout.png)
+  
   * Click the Controllers Button
    * _This will open a small window containing the general controller configuration options_
   ![DolphinStart](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/DolphinHomeSmall.png)
