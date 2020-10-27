@@ -33,12 +33,14 @@
     * send it to your prefered location
   * Open your extracted LiveSplit folder
   * Click On LiveSplit.exe to open up LiveSplit
-    * Once you do this the application should open and look like
-  ![exe](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exe.png)
+    * Once you do this the application should open and look like this
+    ![exe](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exe.png)
 
 ## Configuring LiveSplit
- * Navigate into the extracted folder and run the Dolphin Program
-   * _This will open the program in it's own window_
+ * Rightclick on the application
+ * Select _Edit Layout..._
+   * _This will open a window to configure the layout of the application_
+ ![layout](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/layout.png)
  * Click the Controllers Button
    * _This will open a small window containing the general controller configuration options_
  ![DolphinStart](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/DolphinHomeSmall.png)
