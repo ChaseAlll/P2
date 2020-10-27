@@ -3,11 +3,6 @@
 ### [1.](#introduction) Introduction
 ### [2.](#system-requirements) System Requirements
 ### [3.](#installing-livesplit) Installing LiveSplit 
- 1. ##### Download Resources
- 
- 
- 2. ##### Install Resources
- 
 ### [4.](#configuring-livesplit) Configuring LiveSplit
  1. ##### Map Controller
  
@@ -39,7 +34,7 @@
     * Click _Extract All..._ and send to your prefered location
  
   * Open your newly extracted LiveSplit folder
-    * Click On LiveSplit.exe
+    * Click On LiveSplit.exe to open up LiveSplit
   
  * Navigate to where you downloaded the above files
  * Run the vc_redist.x--.exe file
