@@ -62,14 +62,19 @@ LiveSplit is a free application that allows you to record and update your speedr
   ![new_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/new_split.png)
  
  ## Setting up Your Speedrun
- * Now this is where the fun begins
- 
+ * Rightclick on LiveSplit
+ * Click Edit Splits...
+   * _A window should pop up that looks like this
+   
+   ![edit_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split.png)
+   
+   
 ## FAQ
- * "Do I have to set up LiveSplit as shown for it to work?"
+ * "Do I have to set up LiveSplit as shown for it to work"
    * No! LiveSplit in its purest form is just a timer. You can setup the layout to fit whatever needs you may have.
- * "How do I download LiveSplit on mac?"
+ * "How do I download LiveSplit on mac"
    * There isn't an officially support version of LiveSplit on mac, but you can use a web-browser based version found [here](https://cryze.github.io/LiveSplitOne/).
- * “How do I get LiveSplit to close?”
+ * “How do I get LiveSplit to close”
    * If you're having difficulties closing the program, either rightclick and select _Exit_ or open up your task manager to end the task/program
 
 ## LICENSE
