@@ -2,7 +2,7 @@
 
 ### [1.](#introduction) Introduction
 ### [2.](#prerequisites) Prerequisites
-### [3.](#installing-emulator-and-dependencies) Installing Emulator and Dependencies
+### [3.](#installing-emulator-and-dependencies) Installing BO2 With Plutonium 
  1. ##### Download Resources
  
  
@@ -26,14 +26,13 @@ the one used should look for information more curated to their use case. Once re
 knowledge to install the emulator and to configure it to use the settings most efficient for a general use case.
 
 ## Prerequisites
- * System Requirements
-    * OS: 64-bit edition of Windows (7 SP1 or higher), Linux, or macOS (10.10 Yosemite or higher). Windows Vista SP2 and unix-like systems other than Linux are not officially supported but might work.
-   * Processor: A CPU with SSE2 support. A modern CPU (3 GHz and Dual Core, not older than 2008) is highly recommended.
-   * Graphics: A reasonably modern graphics card (Direct3D 10.0 / OpenGL 3.0). A graphics card that supports Direct3D 11 / OpenGL 4.4 is recommended.
- * Rom’s to run on the emulator in their own dedicated folder
- * Connection to the Internet
- * A Controller Compatible to Your System
- * 7zip or Other Compression Software Capable of Extracting .7z files
+ * Minimum System Requirements
+    * OS: Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit or later, Mac OS X 10.13.6 (High Sierra) or later
+   * Processor: Intel® Core™ i3-530 @ 2.93 GHz / AMD Phenom™ II X4 810 @ 2.60 GHz, Intel® Core™ i5 (4 Cores) @ 2.3 GHz
+   * Graphics: NVIDIA® GeForce® GTX 470 @ 1GB / ATI® Radeon™ HD 6970 @ 1GB, ATI® Radeon™ M295X @ 2GB
+ * Network: Broadband Internet connection
+ * Storage: 100 GB available space
+ * Sound Card: DirectX Compatible
  
 ## Installing Emulator and Dependencies
  * Navigate to the Dolphin [homepage](https://dolphin-emu.org/)
