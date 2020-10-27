@@ -2,7 +2,7 @@
 
 ### [1.](#introduction) Introduction
 ### [2.](#system-requirements) System Requirements
-### [3.](#installing-bo2-with-plutonium) Installing BO2 With Plutonium 
+### [3.](#installing-livesplit) Installing LiveSplit 
  1. ##### Download Resources
  
  
@@ -27,7 +27,7 @@
  * Storage: 30 MB available space
  * Sound Card: Windows compatible sound card, Mac compatible
  
-## Installing BO2 With Plutonium 
+## Installing LiveSplit
  * Navigate to the LiveSplit [homepage](https://livesplit.org/)
  * Scroll down until you see *BO2 Download*
   * After you've opened the download fourm open up your _File Explorer_
