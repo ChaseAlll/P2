@@ -36,8 +36,9 @@ knowledge to install the emulator and to configure it to use the settings most e
  * Sound Card: DirectX Compatible
  
 ## Installing Emulator and Dependencies
- * Navigate to the Dolphin [homepage](https://dolphin-emu.org/)
- * Click either download link on the homepage
+ * Navigate to the Plutonium [homepage](https://plutonium.pw/)
+ * Scroll down until you see *BO2 Download*
+ * Once this is done go to your local files and create a new folder
    * _This will lead to a page with the different versions of Dolphin_ 
   ![DolphinHomePage](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/DolphinWebsiteSmall.png)
  * Download the latest version of Dolphin for Windows (Current - 5.0-11827)
