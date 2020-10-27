@@ -1,8 +1,8 @@
 # Table of Contents 
 
 ### [1.](#introduction) Introduction
-### [2.](#prerequisites) Prerequisites
-### [3.](#installing-emulator-and-dependencies) Installing BO2 With Plutonium 
+### [2.](#system-requirements) System Requirements
+### [3.](#installing-bo2-with-plutonium) Installing BO2 With Plutonium 
  1. ##### Download Resources
  
  
@@ -18,14 +18,9 @@
 
 
 ## Introduction
-Dolphin is a flexible and accessible program that emulates the GameCube and Wii consoles. This document will give an in-depth
-walkthrough on the first-time installation and configuration of the emulator on a Windows 64-bit machine. 
-This documentation is intended for individuals who have little experience with emulators in general or have never installed
-this emulator before. Anyone has experience with this emulator or is going to use a version that is different than
-the one used should look for information more curated to their use case. Once read, this documentation will give the user the
-knowledge to install the emulator and to configure it to use the settings most efficient for a general use case.
 
-## Prerequisites
+
+## System Requirements
  * Minimum System Requirements
     * OS: Windows Vista SP2, Windows 7, or later
    * Processor: Intel Core2 Duo E8200 2.66 GHz or AMD Phenom X3 8750 2.4 GHz, or later
@@ -35,7 +30,7 @@ knowledge to install the emulator and to configure it to use the settings most e
  * Storage: 20 GB available space
  * Sound Card: DirectX Compatible
  
-## Installing Emulator and Dependencies
+## Installing BO2 With Plutonium 
  * Navigate to the Plutonium [homepage](https://plutonium.pw/)
  * Scroll down until you see *BO2 Download*
   * After you've opened the download fourm open up your _File Explorer_
