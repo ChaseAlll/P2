@@ -5,9 +5,10 @@
 ### [3.](#installing-livesplit) Installing LiveSplit 
 ### [4.](#configuring-livesplit) Configuring LiveSplit
 ### [5.](#setting-up-your-speedrun) Setting Up Your Speedrun
-### [6.](#faq) FAQ
-### [7.](#troubleshooting) Troubleshooting
-### [8.](#license) License
+### [6.](#instructions-for-use) Instructions For Use
+### [7.](#faq) FAQ
+### [8.](#troubleshooting) Troubleshooting
+### [9.](#license) License
 
 
 ## Introduction
@@ -92,6 +93,12 @@ LiveSplit is a free application that allows you to record and update your speedr
   
   And with that you've set up LiveSplit and mapped your keybinds, have fun speed running!
 
+## Instructions For Use
+To Start Up Your Speedrun
+* Open the game you want to speedrun
+* Open LiveSplit
+* Start the game
+* When you are ready to begin press 0 on your numpad to begin!
 
 ## FAQ
  * "Do I have to set up LiveSplit as shown for it to work"
