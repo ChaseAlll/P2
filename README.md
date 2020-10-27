@@ -4,8 +4,9 @@
 ### [2.](#system-requirements) System Requirements
 ### [3.](#installing-livesplit) Installing LiveSplit 
 ### [4.](#configuring-livesplit) Configuring LiveSplit
-### [5.](#faq) FAQ
-### [6.](#license) LICENSE
+### [5.](#setting-up-your-speedrun) Setting Up Your Speedrun
+### [6.](#faq) FAQ
+### [7.](#license) LICENSE
 
 
 ## Introduction
@@ -59,6 +60,9 @@
     * _Your LiveSplit application should look like this
   
   ![new_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/new_split.png)
+ 
+ ## Installing LiveSplit
+ * Now this is where the fun begins
  
 ## FAQ
  * Are there any performance settings that need changed?
