@@ -31,10 +31,12 @@
 ## Installing LiveSplit
  * Navigate to the LiveSplit [homepage](https://livesplit.org/)
  * Click on the download button on the homepaage
-  ![C-drive](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/C-drive.png)
-  * After you've opened the download fourm open up your _File Explorer_
-   * Open your Local Disk (Hard Drive)
-  ![C-drive](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/C-drive.png)
+  * This will lead you to the different LiveSplit downloads
+  ![download](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/download.png)
+  * Click on the most recent version of LiveSplit to download
+  ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
+  * Open your Local Disk (Hard Drive)
+  
  
  * Create a new folder named Games if you don't have one
   ![games](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/games.png)
