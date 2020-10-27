@@ -61,7 +61,7 @@
   
   ![new_split](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/new_split.png)
  
- ## Installing LiveSplit
+ ## Setting up Your Speedrun
  * Now this is where the fun begins
  
 ## FAQ
