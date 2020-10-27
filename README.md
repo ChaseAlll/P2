@@ -48,7 +48,7 @@
   * Hover over list
   * Click on _Splits_
   * Click the _Up Arrow_, while splits is still highlighted
-   *This will move the splits you added above the time tracker
+    * _This will move the splits you added above the time tracker_
   
   ![splits](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/splits.png)
   
