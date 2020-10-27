@@ -5,8 +5,8 @@
 ### [3.](#installing-livesplit) Installing LiveSplit 
 ### [4.](#configuring-livesplit) Configuring LiveSplit
 ### [5.](#setting-up-your-speedrun) Setting Up Your Speedrun
-### [6.](#faq) FAQ
-### [7.](#instructions-for-use) Instructions For Use
+### [6.](#instructions-for-use) Instructions For Use
+### [7.](#faq) FAQ
 ### [8.](#troubleshooting) Troubleshooting
 ### [9.](#license) LICENSE
 
