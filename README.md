@@ -21,15 +21,17 @@
 
 
 ## System Requirements
-   * OS: Windows 7 or later, OSX 10.12 or newer
-   * Processor: 1.5Ghz or better
-   * DirectX: Version 9.0c
+ * OS: Windows 7 or later, OSX 10.12 or newer
+ * Processor: 1.5Ghz or better
+ * DirectX: Version 9.0c
+ * Network: Broadband Internet connection
  * Storage: 30 MB available space
  * Sound Card: Windows compatible sound card, Mac compatible
  
 ## Installing LiveSplit
  * Navigate to the LiveSplit [homepage](https://livesplit.org/)
- * Scroll down until you see *BO2 Download*
+ * Click on the download button on the homepaage
+  ![C-drive](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/C-drive.png)
   * After you've opened the download fourm open up your _File Explorer_
    * Open your Local Disk (Hard Drive)
   ![C-drive](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/C-drive.png)
