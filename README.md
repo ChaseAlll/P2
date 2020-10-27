@@ -22,13 +22,13 @@
  * Click the _download_ button on the homepaage
    * this will lead you to the different LiveSplit downloads
   ![download](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/download.png)
-  * Click on the most recent version of LiveSplit to download the application
+  * Download the most recent version of the application
   ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
-  * Open your _Downloads_ folder to locate the application
+  * Open your _Downloads_ folder
   * Extract the LiveSplit zip folder
     * send it to your prefered location
   * Open your extracted LiveSplit folder
-  * Click On LiveSplit.exe to open up LiveSplit
+  * Open LiveSplit
     * Once you do this the application should open and look like this
     ![exe](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exe.png)
 
