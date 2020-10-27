@@ -10,10 +10,10 @@
 
 
 ## Introduction
-
+LiveSplit is a free application that allows you to record and update your speedrun timings mid-game as well as customize the application itself to suite your asethetic. This document will guide you through the instillation and configuration process to set up your own speedrun timer. 
 
 ## System Requirements
- * OS: Windows 7 or later, OSX 10.12 or newer
+ * OS: Windows 7 or later
  * Network: Broadband Internet connection
  * Storage: 30 MB available space
  * Sound Card: Windows compatible sound card, Mac compatible
