@@ -5,10 +5,9 @@
 ### [3.](#installing-livesplit) Installing LiveSplit 
 ### [4.](#configuring-livesplit) Configuring LiveSplit
 ### [5.](#setting-up-your-speedrun) Setting Up Your Speedrun
-### [6.](#instructions-for-use) Instructions For Use
-### [7.](#faq) FAQ
-### [8.](#troubleshooting) Troubleshooting
-### [9.](#license) License
+### [6.](#faq) FAQ
+### [7.](#troubleshooting) Troubleshooting
+### [8.](#license) License
 
 
 ## Introduction
@@ -76,7 +75,22 @@ LiveSplit is a free application that allows you to record and update your speedr
     
   ![edit_split11](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/edit_split11.png)
 
-## Instructions For Use
+  * Click OK
+  * Right click on LiveSplit
+  * Click on Settings
+    * *It should bring up a window that looks like this*
+    
+  ![settings](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/settings.png)
+  * Click on the _Start / Split_ box
+  * Press 0 on your numpad
+    * _If preferable you may bind these hotkeys somewhere else_
+  * Click on the _Reset_ box
+  * Press 3 on your numpad
+  * Click on the _Pause_ box
+  * Press 1 on your numpad
+  * Click OK
+  
+  And with that you've set up LiveSplit and mapped your keybinds, have fun speed running!
 
 
 ## FAQ
