@@ -23,25 +23,19 @@
  
 ## Installing LiveSplit
  * Navigate to the LiveSplit [homepage](https://livesplit.org/)
- * Click on the _download_ button on the homepaage
+ * Click the _download_ button on the homepaage
    * this will lead you to the different LiveSplit downloads
   ![download](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/download.png)
   * Click on the most recent version of LiveSplit to download the application
   ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
   * Open your _Downloads_ folder to locate the application
-  * Rightclick LiveSplit_1.8.15 (or the version you downloaded)
-    * Click _Extract All..._ and send to your prefered location
-  * Open your newly extracted LiveSplit folder
-    * Click On LiveSplit.exe to open up LiveSplit
-  
- * Navigate to where you downloaded the above files
- * Run the vc_redist.x--.exe file
-   * _This will open an install wizard_
-   
-   * _If the install fails it means it was already installed on your system_
- 
-* Extract Dolphin from its .7z file to where you want the program
- 
+  * Extract the LiveSplit zip folder
+    * send it to your prefered location
+  * Open your extracted LiveSplit folder
+  * Click On LiveSplit.exe to open up LiveSplit
+    * Once you do this the application should open and look like
+  ![exe](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exe.png)
+
 ## Configuring LiveSplit
  * Navigate into the extracted folder and run the Dolphin Program
    * _This will open the program in it's own window_
