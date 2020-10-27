@@ -27,11 +27,12 @@ knowledge to install the emulator and to configure it to use the settings most e
 
 ## Prerequisites
  * Minimum System Requirements
-    * OS: Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit or later, Mac OS X 10.13.6 (High Sierra) or later
-   * Processor: Intel® Core™ i3-530 @ 2.93 GHz / AMD Phenom™ II X4 810 @ 2.60 GHz, Intel® Core™ i5 (4 Cores) @ 2.3 GHz
-   * Graphics: NVIDIA® GeForce® GTX 470 @ 1GB / ATI® Radeon™ HD 6970 @ 1GB, ATI® Radeon™ M295X @ 2GB
+    * OS: Windows Vista SP2, Windows 7, or later
+   * Processor: Intel Core2 Duo E8200 2.66 GHz or AMD Phenom X3 8750 2.4 GHz, or later
+   * Graphics: NVIDIA® GeForce® 8800GT 512 MB or ATI Radeon HD 3870 512 MB, or later
+   * DirectX: Version 9.0c
  * Network: Broadband Internet connection
- * Storage: 100 GB available space
+ * Storage: 20 GB available space
  * Sound Card: DirectX Compatible
  
 ## Installing Emulator and Dependencies
