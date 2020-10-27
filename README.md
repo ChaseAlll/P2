@@ -8,7 +8,7 @@
  
  2. ##### Install Resources
  
-### [4.](#configuring-emulator) Configuring Emulator
+### [4.](#configuring-livesplit) Configuring LiveSplit
  1. ##### Map Controller
  
  
@@ -22,8 +22,6 @@
 
 ## System Requirements
  * OS: Windows 7 or later, OSX 10.12 or newer
- * Processor: 1.5Ghz or better
- * DirectX: Version 9.0c
  * Network: Broadband Internet connection
  * Storage: 30 MB available space
  * Sound Card: Windows compatible sound card, Mac compatible
@@ -37,8 +35,10 @@
   ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
   * Open your File Explorer
     * Go to your _Downloads_ folder to locate the application
-  ![downsss](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/downsss.pn)
-  
+  ![downsss](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/downsss.png)
+  * Rightclick LiveSplit_1.8.15(or the version you downloaded)
+    * Click _Extract All..._ and send to your prefered location
+  ![exexex](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exexex.png)
  
  * Create a new folder named Games if you don't have one
   ![games](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/games.png)
@@ -53,7 +53,7 @@
  
 * Extract Dolphin from its .7z file to where you want the program
  
-## Configuring Emulator
+## Configuring LiveSplit
  * Navigate into the extracted folder and run the Dolphin Program
    * _This will open the program in it's own window_
  * Click the Controllers Button
