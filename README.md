@@ -35,15 +35,11 @@
   ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
   * Open your File Explorer
     * Go to your _Downloads_ folder to locate the application
-  ![downsss](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/downsss.png)
-  * Rightclick LiveSplit_1.8.15(or the version you downloaded)
+  * Rightclick LiveSplit_1.8.15 (or the version you downloaded)
     * Click _Extract All..._ and send to your prefered location
-  ![exexex](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/exexex.png)
  
- * Create a new folder named Games if you don't have one
-  ![games](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/games.png)
- * Navigate to the Visual Studio C++ Redistributable [page](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
- * Download Visual Studio 2015, 2017, and 2019 based on your system.
+  * Open your newly extracted LiveSplit folder
+    * Click On LiveSplit.exe
   
  * Navigate to where you downloaded the above files
  * Run the vc_redist.x--.exe file
