@@ -36,17 +36,17 @@
  * Rightclick on the application
  * Select _Edit Layout..._
    * _This will open a window to configure the layout of the application_
- * Click the plus to add a feature 
+  * Click the plus to add a feature 
   ![layout](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/layout.png)
- * Click the Controllers Button
+  * Click the Controllers Button
    * _This will open a small window containing the general controller configuration options_
- ![DolphinStart](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/DolphinHomeSmall.png)
- * Under GameCube Controllers, Port1, select Standard Controller from the drop-down menu
- * Click the Configure button for Port 1
+  ![DolphinStart](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/DolphinHomeSmall.png)
+  * Under GameCube Controllers, Port1, select Standard Controller from the drop-down menu
+  * Click the Configure button for Port 1
    * _This will open a window for with specific configuration options for a single controller_
-  ![DolphinControllerSelect](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/ControllerSettingsSmall.png)
- * Ensure your Controller is connected
- * Under Device select Xinput/… from the drop-down menu
+   ![DolphinControllerSelect](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/ControllerSettingsSmall.png)
+  * Ensure your Controller is connected
+  * Under Device select Xinput/… from the drop-down menu
    * _If Xinput is not displayed, ensure the controller is connected and click refresh_
   ![DolphincontrollerMapping](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/ControllerMappingSmall.png)
    
