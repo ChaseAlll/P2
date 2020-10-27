@@ -36,6 +36,7 @@
   * After you've opened the download fourm open up your _File Explorer_
    * Open your Local Disk (Hard Drive)
   ![C-drive](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/C-drive.png)
+ *
  * Create a new folder named Games if you don't have one
   ![games](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/games.png)
  * Navigate to the Visual Studio C++ Redistributable [page](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
