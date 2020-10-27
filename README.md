@@ -45,6 +45,17 @@
   
   ![layout](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/layout.png)
   
+  * Hover over list
+  * Click on _Splits_
+  * Click the _Up Arrow_, while splits is still highlighted
+    *This will move the splits you added above the time tracker
+  
+  ![splits](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/splits.png)
+  
+  
+  
+  
+  
   * Click the Controllers Button
    * _This will open a small window containing the general controller configuration options_
   ![DolphinStart](https://raw.githubusercontent.com/RobertGageStroud/Portfolio/master/P2Pictures/DolphinHomeSmall.png)
