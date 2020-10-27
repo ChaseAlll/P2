@@ -38,10 +38,11 @@ knowledge to install the emulator and to configure it to use the settings most e
 ## Installing Emulator and Dependencies
  * Navigate to the Plutonium [homepage](https://plutonium.pw/)
  * Scroll down until you see *BO2 Download*
- * Once this is done go to your local files and create a new folder
-   * _This will lead to a page with the different versions of Dolphin_ 
+  * After you've opened the download fourm open up your File Explorer
+   * Open your Local Disk(Hard Drive)
   ![C-drive](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/C-drive.png)
- * Download the latest version of Dolphin for Windows (Current - 5.0-11827)
+ * Create a new folder named Games if you don't have one
+  ![games](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/games.png)
  * Navigate to the Visual Studio C++ Redistributable [page](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
  * Download Visual Studio 2015, 2017, and 2019 based on your system.
   
