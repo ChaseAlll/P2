@@ -21,9 +21,13 @@
  * Navigate to the LiveSplit [homepage](https://livesplit.org/)
  * Click the _download_ button on the homepaage
    * this will lead you to the different LiveSplit downloads
+   
   ![download](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/download.png)
+  
   * Download the most recent version of the application
+  
   ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
+  
   * Open your _Downloads_ folder to find LiveSplit_1.8.15 (or the version you downloaded)
   * Rightclick to extract the LiveSplit zip folder
     * send it to your prefered location
