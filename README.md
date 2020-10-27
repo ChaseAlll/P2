@@ -84,9 +84,8 @@ LiveSplit is a free application that allows you to record and update your speedr
    * If you're having difficulties closing the program, either right click and select _Exit_ or open up your task manager to end the task/program
 
 ## Troubleshooting
-check
+ If you have any trouble with the installation or need any addtional suport, feel free to contact me at allisonpc@appstate.edu
 
 ## LICENSE
- * This project is licensed under the terms of the MIT license.
- * [LICENSE](https://github.com/ChaseAlll/P2/blob/main/MIT%20License.txt)
+ This project is licensed under the terms of the [MIT license.](https://github.com/ChaseAlll/P2/blob/main/MIT%20License.txt)
 
