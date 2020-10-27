@@ -36,7 +36,8 @@
   * Click on the most recent version of LiveSplit to download the application
   ![down2](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/down2.png)
   * Open your File Explorer
-   * Go to your _Downloads_ folder to locate the application
+    * Go to your _Downloads_ folder to locate the application
+  ![downsss](https://github.com/ChaseAlll/P2/blob/main/P2_pictures/downsss.pn)
   
  
  * Create a new folder named Games if you don't have one
